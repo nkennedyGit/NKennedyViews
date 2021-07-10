@@ -1,0 +1,22 @@
+{
+  "name": "NMKViews",
+  "version": "0.1.0",
+  "summary": "A short description of NMKViews.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Niall Kennedy/NMKViews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Niall Kennedy": "niall.m.kennedy+git@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Niall Kennedy/NMKViews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NMKViews/Classes/**/*"
+}
